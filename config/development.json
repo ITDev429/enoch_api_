@@ -1,0 +1,20 @@
+{
+  "port": "8006",
+  "httpsPort": "8009",
+  "jwtPrivateKey": "123",
+  "log": false,
+  "sessionExpiryInHours": 336,
+  "host": "http://localhost",
+  "application": "http://localhost:8006",
+  "secretKey": "ThisIsSecreT&!23#",
+  "roles": {
+    "MASTER": "MASTER",
+    "USER": "USER",
+    "ADMIN": "ADMIN"
+  },
+  "emailConfig": {
+    "email": "sardaratif940@gmail.com",
+    "password": "Pakistan123:)",
+    "service": "gmail"
+  }
+}

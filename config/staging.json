@@ -1,0 +1,20 @@
+{
+  "port": "8002",
+  "httpsPort": "8008",
+  "log": true,
+  "sessionExpiryInHours": 336,
+  "host": "http://server.ezd.com",
+  "application": "http://appv2.ezd.com",
+  "secretKey": "ThisIsSecreT&!23#",
+  "roles": {
+    "MASTER": "MASTER",
+    "VENUE": "VENUE",
+    "USER": "USER",
+    "ADMIN": "ADMIN"
+  },
+  "emailConfig": {
+    "email": "noreply@ezd.com",
+    "password": "rl=CNRTweD@v",
+    "service": "mail.ezd.com"
+  }
+}

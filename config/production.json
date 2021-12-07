@@ -1,0 +1,19 @@
+{
+  "port": "8003",
+  "httpsPort": "8009",
+  "log": true,
+  "sessionExpiryInHours": 336,
+  "host": "",
+  "application": "",
+  "secretKey": "ThisIsSecreT&!23#",
+  "roles": {
+    "MASTER": "MASTER",
+    "USER": "USER",
+    "ADMIN": "ADMIN"
+  },
+  "emailConfig": {
+    "email": "",
+    "password": "",
+    "service": ""
+  }
+}
